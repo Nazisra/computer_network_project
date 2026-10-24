@@ -3,13 +3,13 @@
 
 
 
-🚂 Railway Networking System Simulation
+Railway Networking System Simulation
 
 Course: CSE322 – Computer Networks Lab
 
 This project is a detailed simulation of a reliable, secure, and efficient computer network designed for a modern railway platform and its administrative zones. Developed in Cisco Packet Tracer, the system demonstrates practical applications of network segmentation, diverse services (DHCP, DNS, HTTP), and robust routing to ensure seamless inter-departmental communication.
 
-✨ Project Objectives & Features
+Project Objectives & Features
 
 The primary goal was to design a network mirroring real-world complexity and ensure functional, secure connectivity for all users and services.
 
@@ -33,7 +33,7 @@ Static Routing: Static routes were configured between routers to ensure secure a
 
 Comprehensive Testing: Successful verification of inter-subnet communication (Ping Tests), DNS resolution, and web access across all zones.
 
-💻 Network Topology Overview
+ Network Topology Overview
 
 The network topology leverages multiple routers, multilayer switches, and various end devices (PCs, smartphones, servers) to simulate the required environment.
 
@@ -72,8 +72,7 @@ VIP Zone (192.168.40.0/24)
 Higher privilege access, secured wireless.
 
 (For the complete topology diagram and IP addressing scheme, please refer to the uploaded Packet Tracer file finalcnprojectwith_ticket.pkt.)
-
-🚀 Future Enhancements
+Future Enhancements
 
 To further enhance the robustness and security of this railway network, the following improvements are planned:
 
@@ -86,10 +85,9 @@ Redundancy Protocols: Implement redundancy using protocols like HSRP (Hot Standb
 Advanced Monitoring: Integrate SNMP (Simple Network Management Protocol) for real-time monitoring and centralized management of all network devices.
 
 Expanded Functionality: Integrate IP cameras for security surveillance and deploy VoIP (Voice over IP) services for internal staff communication.
-
-👥 Team
+ Team
 
 This project was developed collaboratively by:
 
-[Nazmul Islam Rahad] (ID: 0242310005101266)
+[Nazmul Islam Rahad] (ID: 0242310005101183)
 
